@@ -1,43 +1,25 @@
-# [Welcome to PARYATANA ✈️](https://arun9739.github.io/Paryatana/)
-![Forks](https://badgen.net/github/forks/Arun9739/Paryatana?icon=github&scale=1.2&color=red&cache=300) &nbsp;
-![Stars](https://badgen.net/github/stars/Arun9739/Paryatana?icon=https://upload.wikimedia.org/wikipedia/commons/a/a3/Orange_star.svg&scale=1.2&color=orange&cache=300) &nbsp;
-![License](https://badgen.net/badge/license/MIT/purple?scale=1.2) &nbsp;<br>
-Click [here](https://arun9739.github.io/Paryatana/) to have a look at our website.
+# 🌴 Hi Lombok ✈️
+
 <p align="center">
-Paryatana is a front-end website for a travel agency. The website contains details about tourist destinations, available hotels and car booking services. We focus on displaying various attractive places within the country and tourist packages are updated as they are announced by the travel agency. Details about the founder and manager are included, together with links to the Paryatana website social media pages.
+Hi Lombok is a front-end travel agency website that showcases the natural beauty of Lombok and nearby islands. The platform presents curated travel destinations and holiday experiences, highlighting beaches, islands, and cultural attractions to inspire travelers and support local tourism.
 </p>
 
-<br> <br>
+---
 
-<p align="center">
+## About the Project
 
-<img src="https://forthebadge.com/images/badges/built-by-developers.svg"/>
-<img src="https://forthebadge.com/images/badges/uses-brains.svg"/>
-<br>
-<img src="https://forthebadge.com/images/badges/made-with-javascript.svg"/>
-<img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg"/>
-<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
+Hi Lombok is designed to provide a simple and visually engaging experience for users who want to explore travel options in Lombok. The website focuses on clear presentation, easy navigation, and appealing visuals to represent destinations and travel packages.
 
-<p>
+## Technologies Used
 
-## Why contribute?
- Contributions are a good way to offer help to project maintainers and improve the functionality and experience of a software. It also helps you level up your skillset by working on real-world tasks.
- 
- ## How to contribute? 
-- If you encounter a bug on the website raise an issue with the proposed fix.
-- If you can modify the User Interface to improve User Experience on the website raise an issue with the proposed changes. 
-- If you would like to add more functionality to the site raise an issue with the proposed changes.
- 
-## Contributing Guidelines
-- Take a look at [`contributing guidelines`](Contributing.md) if you're interested in contributing!
-- Refer [GitHub Flow](https://guides.github.com/introduction/flow).
+- HTML
+- CSS
+- JavaScript
 
-## The heart of this project are our contributors : 
+## Purpose
 
-<a href="https://github.com/Arun9739/Paryatana/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Arun9739/Paryatana"/>
-</a>
+The goal of this project is to create a clean and informative travel website that promotes Lombok as a tourist destination while serving as a front-end practice project.
 
-## [MIT Licensed](https://github.com/Arun9739/Paryatana/blob/main/LICENSE)
+## License
 
-
+This project is licensed under the MIT License.
