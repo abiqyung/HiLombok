@@ -8,19 +8,19 @@ body {
 
 footer {
   display: flex;
-  background-color: #400361;
+  background-color: #1f348a;
   padding-bottom: 2.8rem;
   justify-content: center;
   min-height: 30rem;
 }
 
 .bottom-footer {
-  background-color: #400361;
+  background-color: #1f348a;
   text-align: center;
   color: white;
 }
 
- footer .pages {
+footer .pages {
   width: 30%;
   text-align: center;
   margin-top: 6rem;
@@ -30,31 +30,31 @@ footer .menu-items {
   width: 100%;
   text-align: center;
   margin-top: 2rem;
-    grid-gap: 0;
+  grid-gap: 0;
 }
 footer .menu-items a {
-    text-decoration: none;
-    font-weight: bold;
-    font-family: "Changa", sans-serif;
-    color: rgb(240, 235, 235);
-    font-size: 1.9rem;
-    padding: 0rem;
-    margin-bottom: 2rem;
-  }
+  text-decoration: none;
+  font-weight: bold;
+  font-family: "Changa", sans-serif;
+  color: rgb(240, 235, 235);
+  font-size: 1.9rem;
+  padding: 0rem;
+  margin-bottom: 2rem;
+}
 
 .decor {
   display: inline-block;
 }
 .decor::after {
-    content: '';
-    display: block;
-    width: 0;
-    height: 2px;
-    background: #fcdd44;
-    transition: width .6s ease-in;
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #fcdd44;
+  transition: width 0.6s ease-in;
 }
 .decor:hover::after {
-    width: 100%;
+  width: 100%;
 }
 footer .logo_bot {
   /* background-color: #00b51e; */
@@ -87,8 +87,8 @@ footer .logo_bot img {
   padding: 10px;
   width: 15vw;
   background-color: #fcdd44;
-  border:none;
-  border-radius:15px;
+  border: none;
+  border-radius: 15px;
 }
 
 footer .doc {
@@ -211,18 +211,18 @@ footer .follow .twitter:hover {
     margin: 0;
   }
 
-  footer .logo_bot .newsletter{
+  footer .logo_bot .newsletter {
     display: flex;
     flex-direction: column;
     align-items: center;
   }
 
-  .newsletter input{
+  .newsletter input {
     border-radius: 10px;
     width: 75vw;
   }
 
-  .newsletter button{
+  .newsletter button {
     border-radius: 10px;
     margin-top: 5px;
     width: 25vw;
